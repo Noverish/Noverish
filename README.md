@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Hyunsub Kim (Noverish) - Full Stack Developer
+
+[About Me](https://www.notion.so/Hyunsub-Kim-Noverish-172bececfd9a4736ac92ad259f7ef7f5)
+
+
 <!--
 **Noverish/Noverish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
