@@ -3,7 +3,7 @@
 Now I am doing... : Node.js, React with Typescript
 Now I am study... : Spring Framework with Kotlin
 
-More Detail -> [hyunsub.kim](https://hyunsub.kim)    
+About Me -> [hyunsub.kim](https://hyunsub.kim)    
 Tech Blog -> [blog.hyunsub.kim](https://blog.hyunsub.kim)
 
 <!--
