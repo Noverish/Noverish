@@ -1,6 +1,6 @@
 # Hyunsub Kim (Noverish) - Full Stack Developer
 
-[About Me](https://www.notion.so/Hyunsub-Kim-Noverish-172bececfd9a4736ac92ad259f7ef7f5)
+More Detail -> <https://hyunsub.kim>
 
 
 <!--
