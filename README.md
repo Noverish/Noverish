@@ -1,6 +1,6 @@
 # Hyunsub Kim (Noverish) - Full Stack Developer
 
-Now I am doing... : Node.js, React with Typescript
+Now I am doing... : Node.js, React with Typescript     
 Now I am study... : Spring Framework with Kotlin
 
 About Me -> [hyunsub.kim](https://hyunsub.kim)    
