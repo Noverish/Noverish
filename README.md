@@ -1,8 +1,10 @@
 # Hyunsub Kim (Noverish) - Full Stack Developer
 
-More Detail -> <https://hyunsub.kim>    
-Tech Blog -> <https://blog.hyunsub.kim>
+Now I am doing... : Node.js, React with Typescript
+Now I am study... : Spring Framework with Kotlin
 
+More Detail -> [hyunsub.kim](https://hyunsub.kim)    
+Tech Blog -> [blog.hyunsub.kim](https://blog.hyunsub.kim)
 
 <!--
 **Noverish/Noverish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
