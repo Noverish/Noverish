@@ -1,6 +1,7 @@
 # Hyunsub Kim (Noverish) - Full Stack Developer
 
-More Detail -> <https://hyunsub.kim>
+More Detail -> <https://hyunsub.kim>    
+Tech Blog -> <https://blog.hyunsub.kim>
 
 
 <!--
